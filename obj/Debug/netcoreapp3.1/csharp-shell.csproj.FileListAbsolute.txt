@@ -1,0 +1,13 @@
+/home/declan/Desktop/csharp-shell/bin/Debug/netcoreapp3.1/csharp-shell
+/home/declan/Desktop/csharp-shell/bin/Debug/netcoreapp3.1/csharp-shell.deps.json
+/home/declan/Desktop/csharp-shell/bin/Debug/netcoreapp3.1/csharp-shell.runtimeconfig.json
+/home/declan/Desktop/csharp-shell/bin/Debug/netcoreapp3.1/csharp-shell.runtimeconfig.dev.json
+/home/declan/Desktop/csharp-shell/bin/Debug/netcoreapp3.1/csharp-shell.dll
+/home/declan/Desktop/csharp-shell/bin/Debug/netcoreapp3.1/csharp-shell.pdb
+/home/declan/Desktop/csharp-shell/obj/Debug/netcoreapp3.1/csharp-shell.csprojAssemblyReference.cache
+/home/declan/Desktop/csharp-shell/obj/Debug/netcoreapp3.1/csharp-shell.AssemblyInfoInputs.cache
+/home/declan/Desktop/csharp-shell/obj/Debug/netcoreapp3.1/csharp-shell.AssemblyInfo.cs
+/home/declan/Desktop/csharp-shell/obj/Debug/netcoreapp3.1/csharp-shell.csproj.CoreCompileInputs.cache
+/home/declan/Desktop/csharp-shell/obj/Debug/netcoreapp3.1/csharp-shell.dll
+/home/declan/Desktop/csharp-shell/obj/Debug/netcoreapp3.1/csharp-shell.pdb
+/home/declan/Desktop/csharp-shell/obj/Debug/netcoreapp3.1/csharp-shell.genruntimeconfig.cache
